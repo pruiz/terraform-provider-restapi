@@ -3,7 +3,7 @@ package restapi
 import (
 	"testing"
 
-	"github.com/Mastercard/terraform-provider-restapi/fakeserver"
+	"github.com/pruiz/terraform-provider-restapi/fakeserver"
 
 	"github.com/hashicorp/terraform/config"
 	"github.com/hashicorp/terraform/helper/schema"

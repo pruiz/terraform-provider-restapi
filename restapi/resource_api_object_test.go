@@ -17,8 +17,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/Mastercard/terraform-provider-restapi/fakeserver"
 	"github.com/hashicorp/terraform/helper/resource"
+	"github.com/pruiz/terraform-provider-restapi/fakeserver"
 )
 
 // example.Widget represents a concrete Go type that represents an API resource

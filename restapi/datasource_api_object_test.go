@@ -12,8 +12,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/Mastercard/terraform-provider-restapi/fakeserver"
 	"github.com/hashicorp/terraform/helper/resource"
+	"github.com/pruiz/terraform-provider-restapi/fakeserver"
 )
 
 func TestAccRestapiobject_Basic(t *testing.T) {
